@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1f58bb1597f2cedf",
+        "id": "12f9a2ef4377d8ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "測試/黑曜石筆記測試.md",
+            "file": "JavaScript/Node.js/Core Modules.md",
             "mode": "source"
           }
         },
-        "group": "0e6e4f935e865e5c"
+        "group": "da72bbca0057915b"
       },
       {
-        "id": "ae9b71a02a55149e",
+        "id": "676eb8937b0775ec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "測試/黑曜石筆記測試.md",
+            "file": "JavaScript/Node.js/Core Modules.md",
             "mode": "preview"
           }
         },
-        "group": "0e6e4f935e865e5c"
+        "group": "da72bbca0057915b"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "測試/黑曜石筆記測試.md",
+                "file": "JavaScript/Node.js/Core Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f58bb1597f2cedf",
+  "active": "12f9a2ef4377d8ca",
   "lastOpenFiles": [
-    "測試/黑曜石筆記測試.md",
+    "JavaScript/Node.js/Core Modules.md",
+    "未命名.md",
     "測試/測試 git 整合 obsidian.md",
-    "黑曜石筆記測試.md",
-    "未命名.md"
+    "測試/黑曜石筆記測試.md",
+    "黑曜石筆記測試.md"
   ]
 }
