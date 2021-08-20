@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7320b65a448e178a",
+        "id": "d6ba77a8d651c1dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Issues/Regroup Array.md",
+            "file": "PHP/04-php-array.md",
             "mode": "source"
           }
         },
-        "group": "42dd4cec2acf0a93"
+        "group": "8c198e41bd61302d"
       },
       {
-        "id": "e5e9d77b80b52fdd",
+        "id": "330716670e654ef1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Issues/Regroup Array.md",
+            "file": "PHP/04-php-array.md",
             "mode": "preview"
           }
         },
-        "group": "42dd4cec2acf0a93"
+        "group": "8c198e41bd61302d"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#windows",
+                "query": "tag:#node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Issues/Regroup Array.md",
+                "file": "PHP/04-php-array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "591b85012d75e398",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHP/04-php-array.md"
+              }
+            }
+          },
+          {
+            "id": "20ec73a6e9d4b062",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PHP/04-php-array.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "431d03bbc4330ac7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -99,13 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7320b65a448e178a",
+  "active": "d6ba77a8d651c1dc",
   "lastOpenFiles": [
-    "Issues/Regroup Array.md",
+    "PHP/04-php-array.md",
+    "PHP/00-php-index.md",
+    "PHP/03-php-if-else.md",
+    "PHP/02-php-grammar.md",
+    "PHP/01-php-install.md",
+    "README.md",
+    "Node.js/nvm.md",
     "未命名.md",
-    "Terminal/Cmder(install & setting).md",
-    "Terminal/Cmder.md",
-    "Cmder.md",
-    "README.md"
+    "2021-08-19.md",
+    "Issues/regroup-array.md"
   ]
 }
