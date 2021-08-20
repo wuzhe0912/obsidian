@@ -1,5 +1,7 @@
 # NVM
 
+tags: #Node #NVM #NPM
+
 `nvm`用於管理不同情境下，切換不同`node`版本，這邊記錄常用`nvm`指令與不同環境下的安裝方式。
 
 ## device(install)
@@ -45,11 +47,11 @@ nvm is not compatible with the npm config “prefix” option: currently set to 
 Run `npm config delete prefix` or `nvm use --delete-prefix v12.22.0 --silent` to unset it.
 ```
 
-從字面上來看，應該是 #npm 和 nvm 管理的 node 版本沒有對上，按照終端機提供的訊息，敲入對應指令。再檢查 node 版本似乎是正常了，但事實上，若另開終端機分頁，依然會跳相同的提示錯誤。雖然不影響操作，但看到總是不順眼，google 了一下解法，最終測試成功方案如下：
+從字面上來看，應該是`npm`和 `nvm`管理的`node`版本沒有對上，按照終端機提供的訊息，敲入對應指令。再檢查 node 版本似乎是正常了，但事實上，若另開終端機分頁，依然會跳相同的提示錯誤。雖然不影響操作，但看到總是不順眼，google 了一下解法，最終測試成功方案如下：
 
 ``` sh
 npm config delete prefix
 npm config set prefix $NVM_DIR/versions/node/v12.22.0
 ```
 
-承上的指令內容是，先刪除 npm 中設定的 prefix，再重新設定當前 nvm 使用的版本。
+承上的指令內容是，先刪除`npm`中設定的`prefix`，再重新設定當前`nvm`使用的版本。

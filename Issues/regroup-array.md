@@ -1,6 +1,8 @@
 # Regroup Array
 
-記錄自己或朋友遇到的一些業務 #issues 解法。
+tags: #Issues
+
+記錄自己或朋友遇到的一些業務 issues 解法。
 
 ## 1. 原始陣列過濾後重組
 

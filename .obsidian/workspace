@@ -4,28 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "d6ba77a8d651c1dc",
+        "id": "1a86f8c0c4fed60e",
         "type": "leaf",
+        "dimension": 55.06410256410257,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/04-php-array.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
-        "group": "8c198e41bd61302d"
+        "group": "0aa20ac5e6715db2"
       },
       {
-        "id": "330716670e654ef1",
+        "id": "fd852720e0ba9183",
         "type": "leaf",
+        "dimension": 44.93589743589744,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/04-php-array.md",
+            "file": "JavaScript - ES6/00-es6-index.md",
             "mode": "preview"
           }
         },
-        "group": "8c198e41bd61302d"
+        "group": "0aa20ac5e6715db2"
       }
     ],
     "direction": "vertical"
@@ -52,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "npm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/04-php-array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +95,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PHP/04-php-array.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/04-php-array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6ba77a8d651c1dc",
+  "active": "1a86f8c0c4fed60e",
   "lastOpenFiles": [
-    "PHP/04-php-array.md",
-    "PHP/00-php-index.md",
-    "PHP/03-php-if-else.md",
-    "PHP/02-php-grammar.md",
-    "PHP/01-php-install.md",
-    "README.md",
-    "Node.js/nvm.md",
+    "JavaScript - ES6/00-es6-index.md",
+    "JavaScript - ES6/02-destructuring.md",
+    "JavaScript - ES6/01-arrow-function.md",
     "未命名.md",
-    "2021-08-19.md",
-    "Issues/regroup-array.md"
+    "JavaScript/00-javascript-index.md",
+    "JavaScript - Vue.js/00-vue2-index.md",
+    "Issues/regroup-array.md",
+    "Git/00-git-index.md",
+    "Terminal/cmder-install.md",
+    "PHP/00-php-index.md"
   ]
 }
