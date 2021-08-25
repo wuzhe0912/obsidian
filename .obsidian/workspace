@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 55.06410256410257,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2021-08-25.md",
+            "mode": "source"
+          }
         },
         "group": "0aa20ac5e6715db2"
       },
@@ -20,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript - ES6/00-es6-index.md",
+            "file": "2021-08-25.md",
             "mode": "preview"
           }
         },
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021-08-25.md"
+              }
             }
           },
           {
@@ -104,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2021-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +136,7 @@
   },
   "active": "1a86f8c0c4fed60e",
   "lastOpenFiles": [
+    "2021-08-25.md",
     "JavaScript - ES6/00-es6-index.md",
     "JavaScript - ES6/02-destructuring.md",
     "JavaScript - ES6/01-arrow-function.md",
@@ -137,7 +145,6 @@
     "JavaScript - Vue.js/00-vue2-index.md",
     "Issues/regroup-array.md",
     "Git/00-git-index.md",
-    "Terminal/cmder-install.md",
-    "PHP/00-php-index.md"
+    "Terminal/cmder-install.md"
   ]
 }
