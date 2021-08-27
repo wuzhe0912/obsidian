@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-26.md",
+            "file": "2021-08-27.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-26.md",
+            "file": "2021-08-27.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-26.md",
+                "file": "2021-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-08-26.md"
+                "file": "2021-08-27.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-08-26.md",
+                "file": "2021-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +136,15 @@
   },
   "active": "1a86f8c0c4fed60e",
   "lastOpenFiles": [
+    "2021-08-27.md",
     "2021-08-26.md",
-    "2021-08-24.md",
+    "2021-08-25.md",
     "JavaScript - ES6/00-es6-index.md",
     "JavaScript - ES6/02-destructuring.md",
     "JavaScript - ES6/01-arrow-function.md",
     "未命名.md",
     "JavaScript/00-javascript-index.md",
     "JavaScript - Vue.js/00-vue2-index.md",
-    "Issues/regroup-array.md",
-    "Git/00-git-index.md"
+    "Issues/regroup-array.md"
   ]
 }
